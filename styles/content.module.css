@@ -1,0 +1,41 @@
+.container {
+  display: flex;
+}
+
+.col {
+  border: 1px solid red;
+  width: 500px;
+  margin: 0 12px;
+}
+
+.col img {
+  width: 100%;
+}
+
+.content {
+}
+
+.flex {
+  display: flex;
+}
+
+.space {
+  padding: 0 10px;
+}
+
+.between {
+  display: flex;
+  justify-content: space-between;
+}
+.deliveryLogo {
+  width: 50px;
+}
+
+
+.deliveryPrice {
+  width: 50px;
+}
+
+.red{
+  border: 1px solid red;
+}
